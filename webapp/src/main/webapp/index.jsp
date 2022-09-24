@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
     
-    <h2>This should be deployed automatically...</h2>
+    <h2>Changed</h2>
     <label for="Name"><b>Enter Your Full Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
